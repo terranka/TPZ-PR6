@@ -1,0 +1,22 @@
+## .NET and Visual Studio
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.log
+
+## OS / IDE generated
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+## Exclude university reports and plans from Git
+PR6_Zvit_Oliinyk.*
+IMPLEMENTATION_PLAN.md
+*.docx
+*.pdf
